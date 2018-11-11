@@ -1,2 +1,2 @@
-# mortgage_tracker
+# Mortgage Repayment Tracker
 Tracker for mortgage repayment
